@@ -1,14 +1,22 @@
 import pika
 import json
 
+with open('data.json', 'r') as file:
+    data = json.load(file)
+
 
 # Function to calculate average expenses
-def calculate_average_expenses(data):
-    # Example calculation logic
-    expenses = data.get("expenses", [])
-    if not expenses:
-        return 0
-    return sum(expenses) / len(expenses)
+def calculate_average_expenses(month, year):
+    try:
+        # Extract expenses for the specified month and year
+        expenses = data["years"][year]["months"][month]["expenses"]
+        if not expenses:
+            return 0
+        # Calculate the average
+        total = sum(item["amount"] for item in expenses)
+        return total / len(expenses)
+    except KeyError:
+        return 0  # Return 0 if the specified month or year is not found
 
 
 # Function to process the request
@@ -17,13 +25,15 @@ def process_request(request):
     data = request.get("data", {})
 
     if request_type == "average_expenses":
-        average = calculate_average_expenses(data)
+        month = data.get("month")
+        year = data.get("year")
+        average = calculate_average_expenses(month, year)
         return {
             "status": "success",
             "data": {
                 "average_expenses": average,
-                "period_start": data.get("period_start"),
-                "period_end": data.get("period_end")
+                "month": month,
+                "year": year
             }
         }
     else:
@@ -47,18 +57,15 @@ def start_microservice():
     def callback(ch, method, properties, body):
         print(" [x] Received request:", body)
 
-        # Parse the request
         request = json.loads(body)
         response = process_request(request)
 
-        # Send the response back to the response queue
         channel.basic_publish(exchange='',
                               routing_key='budget_responses',
                               body=json.dumps(response))
 
         print(" [x] Sent response:", response)
 
-    # Start consuming requests from the request queue
     channel.basic_consume(queue='budget_requests',
                           on_message_callback=callback,
                           auto_ack=True)
@@ -67,7 +74,6 @@ def start_microservice():
     channel.start_consuming()
 
 
-# Start the microservice
 if __name__ == "__main__":
     start_microservice()
 

@@ -1,0 +1,2034 @@
+{
+  "years": {
+    "2024": {
+      "months": {
+        "december": {
+          "budget": 1700000,
+          "expenses": [
+            {
+              "amount": 2914,
+              "category": "utilities"
+            },
+            {
+              "amount": 4886,
+              "category": "transport"
+            },
+            {
+              "amount": 2851,
+              "category": "entertainment"
+            },
+            {
+              "amount": 4138,
+              "category": "utilities"
+            },
+            {
+              "amount": 2217,
+              "category": "entertainment"
+            },
+            {
+              "amount": 3196,
+              "category": "entertainment"
+            },
+            {
+              "amount": 2786,
+              "category": "transport"
+            },
+            {
+              "amount": 4032,
+              "category": "food"
+            },
+            {
+              "amount": 513,
+              "category": "health"
+            },
+            {
+              "amount": 2354,
+              "category": "food"
+            },
+            {
+              "amount": 1046,
+              "category": "other"
+            },
+            {
+              "amount": 627,
+              "category": "education"
+            },
+            {
+              "amount": 4644,
+              "category": "health"
+            },
+            {
+              "amount": 1553,
+              "category": "transport"
+            },
+            {
+              "amount": 951,
+              "category": "food"
+            },
+            {
+              "amount": 2370,
+              "category": "other"
+            },
+            {
+              "amount": 995,
+              "category": "food"
+            },
+            {
+              "amount": 3749,
+              "category": "food"
+            },
+            {
+              "amount": 2092,
+              "category": "entertainment"
+            },
+            {
+              "amount": 2376,
+              "category": "utilities"
+            },
+            {
+              "amount": 3940,
+              "category": "utilities"
+            },
+            {
+              "amount": 1018,
+              "category": "education"
+            },
+            {
+              "amount": 1527,
+              "category": "other"
+            },
+            {
+              "amount": 2094,
+              "category": "education"
+            },
+            {
+              "amount": 4193,
+              "category": "entertainment"
+            },
+            {
+              "amount": 949,
+              "category": "transport"
+            },
+            {
+              "amount": 4892,
+              "category": "entertainment"
+            },
+            {
+              "amount": 236,
+              "category": "transport"
+            },
+            {
+              "amount": 2087,
+              "category": "education"
+            },
+            {
+              "amount": 1236,
+              "category": "housing"
+            },
+            {
+              "amount": 2238,
+              "category": "housing"
+            },
+            {
+              "amount": 4481,
+              "category": "housing"
+            },
+            {
+              "amount": 1878,
+              "category": "health"
+            },
+            {
+              "amount": 4477,
+              "category": "housing"
+            },
+            {
+              "amount": 4691,
+              "category": "utilities"
+            },
+            {
+              "amount": 4572,
+              "category": "food"
+            },
+            {
+              "amount": 2710,
+              "category": "education"
+            },
+            {
+              "amount": 4403,
+              "category": "food"
+            },
+            {
+              "amount": 434,
+              "category": "health"
+            },
+            {
+              "amount": 747,
+              "category": "food"
+            },
+            {
+              "amount": 2800,
+              "category": "health"
+            },
+            {
+              "amount": 3133,
+              "category": "food"
+            },
+            {
+              "amount": 619,
+              "category": "entertainment"
+            },
+            {
+              "amount": 3104,
+              "category": "other"
+            },
+            {
+              "amount": 3301,
+              "category": "transport"
+            },
+            {
+              "amount": 4956,
+              "category": "food"
+            },
+            {
+              "amount": 4069,
+              "category": "education"
+            },
+            {
+              "amount": 4231,
+              "category": "other"
+            },
+            {
+              "amount": 471,
+              "category": "transport"
+            },
+            {
+              "amount": 1066,
+              "category": "utilities"
+            },
+            {
+              "amount": 800,
+              "category": "housing"
+            },
+            {
+              "amount": 3454,
+              "category": "food"
+            },
+            {
+              "amount": 4151,
+              "category": "transport"
+            },
+            {
+              "amount": 2159,
+              "category": "health"
+            },
+            {
+              "amount": 1672,
+              "category": "health"
+            },
+            {
+              "amount": 3173,
+              "category": "other"
+            },
+            {
+              "amount": 869,
+              "category": "transport"
+            },
+            {
+              "amount": 380,
+              "category": "food"
+            },
+            {
+              "amount": 1876,
+              "category": "other"
+            },
+            {
+              "amount": 845,
+              "category": "education"
+            },
+            {
+              "amount": 1502,
+              "category": "health"
+            },
+            {
+              "amount": 1855,
+              "category": "entertainment"
+            },
+            {
+              "amount": 2177,
+              "category": "food"
+            },
+            {
+              "amount": 2388,
+              "category": "education"
+            },
+            {
+              "amount": 4991,
+              "category": "housing"
+            },
+            {
+              "amount": 2873,
+              "category": "housing"
+            },
+            {
+              "amount": 464,
+              "category": "housing"
+            },
+            {
+              "amount": 2403,
+              "category": "transport"
+            },
+            {
+              "amount": 1604,
+              "category": "education"
+            },
+            {
+              "amount": 1101,
+              "category": "housing"
+            },
+            {
+              "amount": 3856,
+              "category": "other"
+            },
+            {
+              "amount": 1909,
+              "category": "transport"
+            },
+            {
+              "amount": 1593,
+              "category": "education"
+            },
+            {
+              "amount": 3691,
+              "category": "entertainment"
+            },
+            {
+              "amount": 1388,
+              "category": "health"
+            },
+            {
+              "amount": 1863,
+              "category": "food"
+            },
+            {
+              "amount": 2286,
+              "category": "education"
+            },
+            {
+              "amount": 460,
+              "category": "housing"
+            },
+            {
+              "amount": 4527,
+              "category": "education"
+            },
+            {
+              "amount": 2003,
+              "category": "health"
+            },
+            {
+              "amount": 735,
+              "category": "food"
+            },
+            {
+              "amount": 4097,
+              "category": "entertainment"
+            },
+            {
+              "amount": 372,
+              "category": "other"
+            },
+            {
+              "amount": 1018,
+              "category": "other"
+            },
+            {
+              "amount": 2614,
+              "category": "education"
+            },
+            {
+              "amount": 867,
+              "category": "food"
+            },
+            {
+              "amount": 965,
+              "category": "food"
+            },
+            {
+              "amount": 1208,
+              "category": "transport"
+            },
+            {
+              "amount": 4298,
+              "category": "entertainment"
+            },
+            {
+              "amount": 1538,
+              "category": "entertainment"
+            },
+            {
+              "amount": 1841,
+              "category": "transport"
+            },
+            {
+              "amount": 1852,
+              "category": "transport"
+            },
+            {
+              "amount": 3663,
+              "category": "utilities"
+            },
+            {
+              "amount": 2745,
+              "category": "education"
+            },
+            {
+              "amount": 4623,
+              "category": "education"
+            },
+            {
+              "amount": 3153,
+              "category": "transport"
+            },
+            {
+              "amount": 3676,
+              "category": "entertainment"
+            },
+            {
+              "amount": 3603,
+              "category": "housing"
+            },
+            {
+              "amount": 4741,
+              "category": "utilities"
+            },
+            {
+              "amount": 4684,
+              "category": "utilities"
+            },
+            {
+              "amount": 2924,
+              "category": "utilities"
+            },
+            {
+              "amount": 3407,
+              "category": "housing"
+            },
+            {
+              "amount": 2436,
+              "category": "food"
+            },
+            {
+              "amount": 880,
+              "category": "education"
+            },
+            {
+              "amount": 2774,
+              "category": "utilities"
+            },
+            {
+              "amount": 4020,
+              "category": "other"
+            },
+            {
+              "amount": 949,
+              "category": "entertainment"
+            },
+            {
+              "amount": 2692,
+              "category": "education"
+            },
+            {
+              "amount": 4856,
+              "category": "food"
+            },
+            {
+              "amount": 3370,
+              "category": "health"
+            },
+            {
+              "amount": 1313,
+              "category": "food"
+            },
+            {
+              "amount": 1256,
+              "category": "entertainment"
+            },
+            {
+              "amount": 3334,
+              "category": "transport"
+            },
+            {
+              "amount": 3201,
+              "category": "education"
+            },
+            {
+              "amount": 614,
+              "category": "utilities"
+            },
+            {
+              "amount": 4563,
+              "category": "education"
+            },
+            {
+              "amount": 3137,
+              "category": "education"
+            },
+            {
+              "amount": 4814,
+              "category": "transport"
+            },
+            {
+              "amount": 1186,
+              "category": "other"
+            },
+            {
+              "amount": 724,
+              "category": "education"
+            },
+            {
+              "amount": 1894,
+              "category": "food"
+            },
+            {
+              "amount": 2670,
+              "category": "other"
+            },
+            {
+              "amount": 3071,
+              "category": "entertainment"
+            },
+            {
+              "amount": 1072,
+              "category": "transport"
+            },
+            {
+              "amount": 3012,
+              "category": "housing"
+            },
+            {
+              "amount": 3050,
+              "category": "other"
+            },
+            {
+              "amount": 1548,
+              "category": "transport"
+            },
+            {
+              "amount": 237,
+              "category": "education"
+            },
+            {
+              "amount": 1135,
+              "category": "education"
+            },
+            {
+              "amount": 3961,
+              "category": "entertainment"
+            },
+            {
+              "amount": 3373,
+              "category": "entertainment"
+            },
+            {
+              "amount": 1309,
+              "category": "transport"
+            },
+            {
+              "amount": 3049,
+              "category": "entertainment"
+            },
+            {
+              "amount": 1094,
+              "category": "utilities"
+            },
+            {
+              "amount": 3469,
+              "category": "education"
+            },
+            {
+              "amount": 3140,
+              "category": "other"
+            },
+            {
+              "amount": 3728,
+              "category": "food"
+            },
+            {
+              "amount": 3034,
+              "category": "housing"
+            },
+            {
+              "amount": 2295,
+              "category": "entertainment"
+            },
+            {
+              "amount": 479,
+              "category": "health"
+            },
+            {
+              "amount": 3844,
+              "category": "utilities"
+            },
+            {
+              "amount": 965,
+              "category": "education"
+            },
+            {
+              "amount": 1106,
+              "category": "transport"
+            },
+            {
+              "amount": 1540,
+              "category": "health"
+            },
+            {
+              "amount": 2015,
+              "category": "housing"
+            },
+            {
+              "amount": 4410,
+              "category": "education"
+            },
+            {
+              "amount": 3054,
+              "category": "utilities"
+            },
+            {
+              "amount": 4277,
+              "category": "health"
+            },
+            {
+              "amount": 1134,
+              "category": "food"
+            },
+            {
+              "amount": 1947,
+              "category": "health"
+            },
+            {
+              "amount": 3767,
+              "category": "education"
+            },
+            {
+              "amount": 179,
+              "category": "education"
+            },
+            {
+              "amount": 4386,
+              "category": "education"
+            },
+            {
+              "amount": 4063,
+              "category": "education"
+            },
+            {
+              "amount": 196,
+              "category": "other"
+            },
+            {
+              "amount": 1663,
+              "category": "education"
+            },
+            {
+              "amount": 3708,
+              "category": "other"
+            },
+            {
+              "amount": 2241,
+              "category": "education"
+            },
+            {
+              "amount": 490,
+              "category": "other"
+            },
+            {
+              "amount": 169,
+              "category": "food"
+            },
+            {
+              "amount": 1170,
+              "category": "education"
+            },
+            {
+              "amount": 1213,
+              "category": "health"
+            },
+            {
+              "amount": 2152,
+              "category": "housing"
+            },
+            {
+              "amount": 4385,
+              "category": "health"
+            },
+            {
+              "amount": 3671,
+              "category": "housing"
+            },
+            {
+              "amount": 2916,
+              "category": "other"
+            },
+            {
+              "amount": 2825,
+              "category": "entertainment"
+            },
+            {
+              "amount": 2622,
+              "category": "health"
+            },
+            {
+              "amount": 518,
+              "category": "education"
+            },
+            {
+              "amount": 1525,
+              "category": "housing"
+            },
+            {
+              "amount": 4387,
+              "category": "other"
+            },
+            {
+              "amount": 2239,
+              "category": "entertainment"
+            },
+            {
+              "amount": 2222,
+              "category": "entertainment"
+            },
+            {
+              "amount": 1885,
+              "category": "food"
+            },
+            {
+              "amount": 399,
+              "category": "entertainment"
+            },
+            {
+              "amount": 2589,
+              "category": "housing"
+            },
+            {
+              "amount": 4447,
+              "category": "transport"
+            },
+            {
+              "amount": 2160,
+              "category": "entertainment"
+            },
+            {
+              "amount": 1660,
+              "category": "entertainment"
+            },
+            {
+              "amount": 2334,
+              "category": "other"
+            },
+            {
+              "amount": 3867,
+              "category": "transport"
+            },
+            {
+              "amount": 4640,
+              "category": "transport"
+            },
+            {
+              "amount": 2693,
+              "category": "other"
+            },
+            {
+              "amount": 4315,
+              "category": "transport"
+            },
+            {
+              "amount": 1290,
+              "category": "other"
+            },
+            {
+              "amount": 2105,
+              "category": "health"
+            },
+            {
+              "amount": 1463,
+              "category": "food"
+            },
+            {
+              "amount": 1186,
+              "category": "utilities"
+            },
+            {
+              "amount": 2054,
+              "category": "utilities"
+            },
+            {
+              "amount": 3980,
+              "category": "education"
+            },
+            {
+              "amount": 3889,
+              "category": "health"
+            },
+            {
+              "amount": 1104,
+              "category": "utilities"
+            },
+            {
+              "amount": 1580,
+              "category": "housing"
+            },
+            {
+              "amount": 4786,
+              "category": "other"
+            },
+            {
+              "amount": 3109,
+              "category": "utilities"
+            },
+            {
+              "amount": 636,
+              "category": "utilities"
+            },
+            {
+              "amount": 3911,
+              "category": "other"
+            },
+            {
+              "amount": 2839,
+              "category": "housing"
+            },
+            {
+              "amount": 3519,
+              "category": "utilities"
+            },
+            {
+              "amount": 4353,
+              "category": "transport"
+            },
+            {
+              "amount": 4750,
+              "category": "transport"
+            },
+            {
+              "amount": 4771,
+              "category": "housing"
+            },
+            {
+              "amount": 4513,
+              "category": "food"
+            },
+            {
+              "amount": 3896,
+              "category": "entertainment"
+            },
+            {
+              "amount": 2198,
+              "category": "other"
+            },
+            {
+              "amount": 3233,
+              "category": "health"
+            },
+            {
+              "amount": 2783,
+              "category": "transport"
+            },
+            {
+              "amount": 1819,
+              "category": "transport"
+            },
+            {
+              "amount": 1381,
+              "category": "transport"
+            },
+            {
+              "amount": 3915,
+              "category": "health"
+            },
+            {
+              "amount": 1780,
+              "category": "other"
+            },
+            {
+              "amount": 3162,
+              "category": "education"
+            },
+            {
+              "amount": 223,
+              "category": "transport"
+            },
+            {
+              "amount": 2820,
+              "category": "other"
+            },
+            {
+              "amount": 3723,
+              "category": "transport"
+            },
+            {
+              "amount": 4608,
+              "category": "utilities"
+            },
+            {
+              "amount": 2441,
+              "category": "utilities"
+            },
+            {
+              "amount": 4075,
+              "category": "health"
+            },
+            {
+              "amount": 3120,
+              "category": "health"
+            },
+            {
+              "amount": 3718,
+              "category": "entertainment"
+            },
+            {
+              "amount": 1044,
+              "category": "education"
+            },
+            {
+              "amount": 997,
+              "category": "education"
+            },
+            {
+              "amount": 1666,
+              "category": "health"
+            },
+            {
+              "amount": 3513,
+              "category": "food"
+            },
+            {
+              "amount": 1497,
+              "category": "utilities"
+            },
+            {
+              "amount": 2578,
+              "category": "other"
+            },
+            {
+              "amount": 3091,
+              "category": "transport"
+            },
+            {
+              "amount": 2944,
+              "category": "education"
+            },
+            {
+              "amount": 430,
+              "category": "food"
+            },
+            {
+              "amount": 3089,
+              "category": "transport"
+            },
+            {
+              "amount": 1363,
+              "category": "utilities"
+            },
+            {
+              "amount": 1247,
+              "category": "other"
+            },
+            {
+              "amount": 971,
+              "category": "transport"
+            },
+            {
+              "amount": 2977,
+              "category": "utilities"
+            },
+            {
+              "amount": 4833,
+              "category": "health"
+            },
+            {
+              "amount": 4898,
+              "category": "other"
+            },
+            {
+              "amount": 4115,
+              "category": "housing"
+            },
+            {
+              "amount": 1504,
+              "category": "housing"
+            },
+            {
+              "amount": 3440,
+              "category": "other"
+            },
+            {
+              "amount": 4495,
+              "category": "food"
+            },
+            {
+              "amount": 4241,
+              "category": "other"
+            },
+            {
+              "amount": 2956,
+              "category": "utilities"
+            },
+            {
+              "amount": 2498,
+              "category": "utilities"
+            },
+            {
+              "amount": 4686,
+              "category": "education"
+            },
+            {
+              "amount": 769,
+              "category": "food"
+            },
+            {
+              "amount": 1057,
+              "category": "education"
+            },
+            {
+              "amount": 3271,
+              "category": "transport"
+            },
+            {
+              "amount": 354,
+              "category": "health"
+            },
+            {
+              "amount": 2607,
+              "category": "food"
+            },
+            {
+              "amount": 1435,
+              "category": "entertainment"
+            },
+            {
+              "amount": 4549,
+              "category": "transport"
+            },
+            {
+              "amount": 464,
+              "category": "other"
+            },
+            {
+              "amount": 3363,
+              "category": "utilities"
+            },
+            {
+              "amount": 3469,
+              "category": "food"
+            },
+            {
+              "amount": 2548,
+              "category": "utilities"
+            },
+            {
+              "amount": 4770,
+              "category": "entertainment"
+            },
+            {
+              "amount": 322,
+              "category": "entertainment"
+            },
+            {
+              "amount": 4407,
+              "category": "entertainment"
+            },
+            {
+              "amount": 1891,
+              "category": "utilities"
+            },
+            {
+              "amount": 4460,
+              "category": "education"
+            },
+            {
+              "amount": 2324,
+              "category": "food"
+            },
+            {
+              "amount": 2691,
+              "category": "health"
+            },
+            {
+              "amount": 4801,
+              "category": "food"
+            },
+            {
+              "amount": 1991,
+              "category": "utilities"
+            },
+            {
+              "amount": 3656,
+              "category": "food"
+            },
+            {
+              "amount": 3006,
+              "category": "other"
+            },
+            {
+              "amount": 533,
+              "category": "food"
+            },
+            {
+              "amount": 4655,
+              "category": "transport"
+            },
+            {
+              "amount": 224,
+              "category": "health"
+            },
+            {
+              "amount": 4282,
+              "category": "food"
+            },
+            {
+              "amount": 1564,
+              "category": "food"
+            },
+            {
+              "amount": 2379,
+              "category": "other"
+            },
+            {
+              "amount": 455,
+              "category": "transport"
+            },
+            {
+              "amount": 1844,
+              "category": "health"
+            },
+            {
+              "amount": 3030,
+              "category": "food"
+            },
+            {
+              "amount": 2527,
+              "category": "health"
+            },
+            {
+              "amount": 4249,
+              "category": "housing"
+            },
+            {
+              "amount": 3120,
+              "category": "housing"
+            },
+            {
+              "amount": 1076,
+              "category": "transport"
+            },
+            {
+              "amount": 829,
+              "category": "housing"
+            },
+            {
+              "amount": 123,
+              "category": "other"
+            },
+            {
+              "amount": 549,
+              "category": "utilities"
+            },
+            {
+              "amount": 4530,
+              "category": "other"
+            },
+            {
+              "amount": 2871,
+              "category": "food"
+            },
+            {
+              "amount": 752,
+              "category": "housing"
+            },
+            {
+              "amount": 2613,
+              "category": "transport"
+            },
+            {
+              "amount": 2528,
+              "category": "transport"
+            },
+            {
+              "amount": 4703,
+              "category": "health"
+            },
+            {
+              "amount": 4035,
+              "category": "other"
+            },
+            {
+              "amount": 3531,
+              "category": "entertainment"
+            },
+            {
+              "amount": 3913,
+              "category": "food"
+            },
+            {
+              "amount": 4937,
+              "category": "education"
+            },
+            {
+              "amount": 3755,
+              "category": "transport"
+            },
+            {
+              "amount": 267,
+              "category": "transport"
+            },
+            {
+              "amount": 1022,
+              "category": "education"
+            },
+            {
+              "amount": 1182,
+              "category": "transport"
+            },
+            {
+              "amount": 2950,
+              "category": "utilities"
+            },
+            {
+              "amount": 4118,
+              "category": "health"
+            },
+            {
+              "amount": 3615,
+              "category": "food"
+            },
+            {
+              "amount": 2759,
+              "category": "food"
+            },
+            {
+              "amount": 3405,
+              "category": "other"
+            },
+            {
+              "amount": 3586,
+              "category": "food"
+            },
+            {
+              "amount": 4060,
+              "category": "housing"
+            },
+            {
+              "amount": 829,
+              "category": "utilities"
+            },
+            {
+              "amount": 3269,
+              "category": "food"
+            },
+            {
+              "amount": 4799,
+              "category": "food"
+            },
+            {
+              "amount": 2467,
+              "category": "food"
+            },
+            {
+              "amount": 4060,
+              "category": "health"
+            },
+            {
+              "amount": 2584,
+              "category": "housing"
+            },
+            {
+              "amount": 4681,
+              "category": "other"
+            },
+            {
+              "amount": 3919,
+              "category": "housing"
+            },
+            {
+              "amount": 4370,
+              "category": "other"
+            },
+            {
+              "amount": 3119,
+              "category": "food"
+            },
+            {
+              "amount": 3876,
+              "category": "utilities"
+            },
+            {
+              "amount": 472,
+              "category": "food"
+            },
+            {
+              "amount": 2255,
+              "category": "food"
+            },
+            {
+              "amount": 1074,
+              "category": "transport"
+            },
+            {
+              "amount": 1835,
+              "category": "education"
+            },
+            {
+              "amount": 1755,
+              "category": "food"
+            },
+            {
+              "amount": 4742,
+              "category": "education"
+            },
+            {
+              "amount": 278,
+              "category": "entertainment"
+            },
+            {
+              "amount": 3831,
+              "category": "transport"
+            },
+            {
+              "amount": 4531,
+              "category": "food"
+            },
+            {
+              "amount": 4667,
+              "category": "education"
+            },
+            {
+              "amount": 4341,
+              "category": "food"
+            },
+            {
+              "amount": 736,
+              "category": "other"
+            },
+            {
+              "amount": 885,
+              "category": "other"
+            },
+            {
+              "amount": 2763,
+              "category": "education"
+            },
+            {
+              "amount": 3945,
+              "category": "entertainment"
+            },
+            {
+              "amount": 1565,
+              "category": "education"
+            },
+            {
+              "amount": 4947,
+              "category": "housing"
+            },
+            {
+              "amount": 3032,
+              "category": "entertainment"
+            },
+            {
+              "amount": 4087,
+              "category": "other"
+            },
+            {
+              "amount": 2517,
+              "category": "education"
+            },
+            {
+              "amount": 693,
+              "category": "health"
+            },
+            {
+              "amount": 3888,
+              "category": "health"
+            },
+            {
+              "amount": 1456,
+              "category": "other"
+            },
+            {
+              "amount": 3156,
+              "category": "food"
+            },
+            {
+              "amount": 4277,
+              "category": "housing"
+            },
+            {
+              "amount": 4095,
+              "category": "housing"
+            },
+            {
+              "amount": 1506,
+              "category": "housing"
+            },
+            {
+              "amount": 651,
+              "category": "food"
+            },
+            {
+              "amount": 2402,
+              "category": "health"
+            },
+            {
+              "amount": 1118,
+              "category": "education"
+            },
+            {
+              "amount": 3661,
+              "category": "utilities"
+            },
+            {
+              "amount": 3255,
+              "category": "health"
+            },
+            {
+              "amount": 1735,
+              "category": "other"
+            },
+            {
+              "amount": 915,
+              "category": "entertainment"
+            },
+            {
+              "amount": 4688,
+              "category": "utilities"
+            },
+            {
+              "amount": 1069,
+              "category": "health"
+            },
+            {
+              "amount": 713,
+              "category": "health"
+            },
+            {
+              "amount": 3257,
+              "category": "entertainment"
+            },
+            {
+              "amount": 4141,
+              "category": "food"
+            },
+            {
+              "amount": 4112,
+              "category": "housing"
+            },
+            {
+              "amount": 1132,
+              "category": "entertainment"
+            },
+            {
+              "amount": 3271,
+              "category": "entertainment"
+            },
+            {
+              "amount": 3662,
+              "category": "other"
+            },
+            {
+              "amount": 4827,
+              "category": "utilities"
+            },
+            {
+              "amount": 2921,
+              "category": "utilities"
+            },
+            {
+              "amount": 116,
+              "category": "transport"
+            },
+            {
+              "amount": 2112,
+              "category": "housing"
+            },
+            {
+              "amount": 4145,
+              "category": "other"
+            },
+            {
+              "amount": 2060,
+              "category": "health"
+            },
+            {
+              "amount": 3240,
+              "category": "utilities"
+            },
+            {
+              "amount": 4992,
+              "category": "other"
+            },
+            {
+              "amount": 2698,
+              "category": "health"
+            },
+            {
+              "amount": 4700,
+              "category": "health"
+            },
+            {
+              "amount": 3985,
+              "category": "other"
+            },
+            {
+              "amount": 429,
+              "category": "utilities"
+            },
+            {
+              "amount": 4927,
+              "category": "food"
+            },
+            {
+              "amount": 2073,
+              "category": "food"
+            },
+            {
+              "amount": 2279,
+              "category": "health"
+            },
+            {
+              "amount": 4578,
+              "category": "utilities"
+            },
+            {
+              "amount": 1564,
+              "category": "food"
+            },
+            {
+              "amount": 4353,
+              "category": "education"
+            },
+            {
+              "amount": 2499,
+              "category": "entertainment"
+            },
+            {
+              "amount": 2451,
+              "category": "other"
+            },
+            {
+              "amount": 4246,
+              "category": "other"
+            },
+            {
+              "amount": 1959,
+              "category": "housing"
+            },
+            {
+              "amount": 4320,
+              "category": "utilities"
+            },
+            {
+              "amount": 2819,
+              "category": "housing"
+            },
+            {
+              "amount": 4876,
+              "category": "transport"
+            },
+            {
+              "amount": 2645,
+              "category": "utilities"
+            },
+            {
+              "amount": 958,
+              "category": "education"
+            },
+            {
+              "amount": 2539,
+              "category": "food"
+            },
+            {
+              "amount": 3036,
+              "category": "housing"
+            },
+            {
+              "amount": 4707,
+              "category": "entertainment"
+            },
+            {
+              "amount": 696,
+              "category": "education"
+            },
+            {
+              "amount": 2508,
+              "category": "health"
+            },
+            {
+              "amount": 1704,
+              "category": "utilities"
+            },
+            {
+              "amount": 663,
+              "category": "education"
+            },
+            {
+              "amount": 3506,
+              "category": "food"
+            },
+            {
+              "amount": 1464,
+              "category": "food"
+            },
+            {
+              "amount": 1914,
+              "category": "other"
+            },
+            {
+              "amount": 1371,
+              "category": "entertainment"
+            },
+            {
+              "amount": 908,
+              "category": "health"
+            },
+            {
+              "amount": 3480,
+              "category": "food"
+            },
+            {
+              "amount": 3163,
+              "category": "health"
+            },
+            {
+              "amount": 208,
+              "category": "transport"
+            },
+            {
+              "amount": 2418,
+              "category": "utilities"
+            },
+            {
+              "amount": 876,
+              "category": "other"
+            },
+            {
+              "amount": 3070,
+              "category": "housing"
+            },
+            {
+              "amount": 135,
+              "category": "food"
+            },
+            {
+              "amount": 4180,
+              "category": "utilities"
+            },
+            {
+              "amount": 3074,
+              "category": "entertainment"
+            },
+            {
+              "amount": 4566,
+              "category": "food"
+            },
+            {
+              "amount": 4430,
+              "category": "food"
+            },
+            {
+              "amount": 1656,
+              "category": "education"
+            },
+            {
+              "amount": 4390,
+              "category": "housing"
+            },
+            {
+              "amount": 2468,
+              "category": "entertainment"
+            },
+            {
+              "amount": 4804,
+              "category": "housing"
+            },
+            {
+              "amount": 1895,
+              "category": "utilities"
+            },
+            {
+              "amount": 3120,
+              "category": "food"
+            },
+            {
+              "amount": 2216,
+              "category": "other"
+            },
+            {
+              "amount": 2594,
+              "category": "other"
+            },
+            {
+              "amount": 2001,
+              "category": "utilities"
+            },
+            {
+              "amount": 1927,
+              "category": "utilities"
+            },
+            {
+              "amount": 4272,
+              "category": "food"
+            },
+            {
+              "amount": 4504,
+              "category": "health"
+            },
+            {
+              "amount": 2550,
+              "category": "food"
+            },
+            {
+              "amount": 1953,
+              "category": "entertainment"
+            },
+            {
+              "amount": 1574,
+              "category": "utilities"
+            },
+            {
+              "amount": 1712,
+              "category": "transport"
+            },
+            {
+              "amount": 4755,
+              "category": "food"
+            },
+            {
+              "amount": 4292,
+              "category": "utilities"
+            },
+            {
+              "amount": 3131,
+              "category": "food"
+            },
+            {
+              "amount": 2481,
+              "category": "food"
+            },
+            {
+              "amount": 4824,
+              "category": "health"
+            },
+            {
+              "amount": 3423,
+              "category": "entertainment"
+            },
+            {
+              "amount": 2883,
+              "category": "utilities"
+            },
+            {
+              "amount": 1472,
+              "category": "health"
+            },
+            {
+              "amount": 3589,
+              "category": "other"
+            },
+            {
+              "amount": 4845,
+              "category": "food"
+            },
+            {
+              "amount": 1607,
+              "category": "health"
+            },
+            {
+              "amount": 788,
+              "category": "health"
+            },
+            {
+              "amount": 2752,
+              "category": "health"
+            },
+            {
+              "amount": 3915,
+              "category": "entertainment"
+            },
+            {
+              "amount": 1325,
+              "category": "utilities"
+            },
+            {
+              "amount": 890,
+              "category": "education"
+            },
+            {
+              "amount": 2003,
+              "category": "utilities"
+            },
+            {
+              "amount": 2702,
+              "category": "food"
+            },
+            {
+              "amount": 1613,
+              "category": "other"
+            },
+            {
+              "amount": 1226,
+              "category": "utilities"
+            },
+            {
+              "amount": 4820,
+              "category": "utilities"
+            },
+            {
+              "amount": 4158,
+              "category": "other"
+            },
+            {
+              "amount": 3205,
+              "category": "housing"
+            },
+            {
+              "amount": 4932,
+              "category": "transport"
+            },
+            {
+              "amount": 1558,
+              "category": "education"
+            },
+            {
+              "amount": 421,
+              "category": "education"
+            },
+            {
+              "amount": 2949,
+              "category": "other"
+            },
+            {
+              "amount": 4095,
+              "category": "entertainment"
+            },
+            {
+              "amount": 3249,
+              "category": "utilities"
+            },
+            {
+              "amount": 4173,
+              "category": "housing"
+            },
+            {
+              "amount": 4974,
+              "category": "transport"
+            },
+            {
+              "amount": 4523,
+              "category": "food"
+            },
+            {
+              "amount": 3048,
+              "category": "food"
+            },
+            {
+              "amount": 331,
+              "category": "entertainment"
+            },
+            {
+              "amount": 4953,
+              "category": "entertainment"
+            },
+            {
+              "amount": 2870,
+              "category": "health"
+            },
+            {
+              "amount": 4185,
+              "category": "entertainment"
+            },
+            {
+              "amount": 3813,
+              "category": "entertainment"
+            },
+            {
+              "amount": 1273,
+              "category": "education"
+            },
+            {
+              "amount": 4957,
+              "category": "health"
+            },
+            {
+              "amount": 2479,
+              "category": "education"
+            },
+            {
+              "amount": 4965,
+              "category": "other"
+            },
+            {
+              "amount": 1553,
+              "category": "housing"
+            },
+            {
+              "amount": 3873,
+              "category": "transport"
+            },
+            {
+              "amount": 3992,
+              "category": "transport"
+            },
+            {
+              "amount": 2071,
+              "category": "food"
+            },
+            {
+              "amount": 210,
+              "category": "education"
+            },
+            {
+              "amount": 1388,
+              "category": "education"
+            },
+            {
+              "amount": 4019,
+              "category": "other"
+            },
+            {
+              "amount": 2649,
+              "category": "food"
+            },
+            {
+              "amount": 625,
+              "category": "food"
+            },
+            {
+              "amount": 3313,
+              "category": "health"
+            },
+            {
+              "amount": 2827,
+              "category": "entertainment"
+            },
+            {
+              "amount": 661,
+              "category": "transport"
+            },
+            {
+              "amount": 751,
+              "category": "food"
+            },
+            {
+              "amount": 4344,
+              "category": "utilities"
+            },
+            {
+              "amount": 3694,
+              "category": "food"
+            },
+            {
+              "amount": 473,
+              "category": "health"
+            },
+            {
+              "amount": 1753,
+              "category": "entertainment"
+            },
+            {
+              "amount": 3023,
+              "category": "transport"
+            },
+            {
+              "amount": 2893,
+              "category": "health"
+            },
+            {
+              "amount": 2612,
+              "category": "health"
+            },
+            {
+              "amount": 1504,
+              "category": "transport"
+            },
+            {
+              "amount": 2127,
+              "category": "utilities"
+            },
+            {
+              "amount": 1983,
+              "category": "food"
+            },
+            {
+              "amount": 1706,
+              "category": "entertainment"
+            },
+            {
+              "amount": 3685,
+              "category": "education"
+            },
+            {
+              "amount": 950,
+              "category": "utilities"
+            },
+            {
+              "amount": 3353,
+              "category": "food"
+            },
+            {
+              "amount": 4660,
+              "category": "other"
+            },
+            {
+              "amount": 2979,
+              "category": "health"
+            },
+            {
+              "amount": 4637,
+              "category": "entertainment"
+            },
+            {
+              "amount": 386,
+              "category": "food"
+            },
+            {
+              "amount": 2910,
+              "category": "entertainment"
+            },
+            {
+              "amount": 126,
+              "category": "food"
+            },
+            {
+              "amount": 1281,
+              "category": "health"
+            },
+            {
+              "amount": 1569,
+              "category": "food"
+            }
+          ]
+        }
+      }
+    },
+    "2025": {
+      "months": {
+        "february": {
+          "budget": 2000,
+          "expenses": [
+            {
+              "amount": 100,
+              "category": "food"
+            },
+            {
+              "amount": 200,
+              "category": "food"
+            },
+            {
+              "amount": 90,
+              "category": "food"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
