@@ -12,11 +12,10 @@ def calculate_average_expenses(month, year):
         expenses = data["years"][year]["months"][month]["expenses"]
         if not expenses:
             return 0
-        # Calculate the average
         total = sum(item["amount"] for item in expenses)
         return total / len(expenses)
     except KeyError:
-        return 0  # Return 0 if the specified month or year is not found
+        return 0
 
 
 # Function to process the request
@@ -50,12 +49,12 @@ def start_microservice():
     channel = connection.channel()
 
     # Declare the request and response queues
-    channel.queue_declare(queue='budget_requests')  # Queue for incoming requests
-    channel.queue_declare(queue='budget_responses')  # Queue for outgoing responses
+    channel.queue_declare(queue='budget_requests')
+    channel.queue_declare(queue='budget_responses')
 
     # Callback function to handle incoming requests
     def callback(ch, method, properties, body):
-        print(" [x] Received request:", body)
+        print(" \n[x] Received request:", body)
 
         request = json.loads(body)
         response = process_request(request)
@@ -64,13 +63,13 @@ def start_microservice():
                               routing_key='budget_responses',
                               body=json.dumps(response))
 
-        print(" [x] Sent response:", response)
+        print(" \n[x] Sent response:", response)
 
     channel.basic_consume(queue='budget_requests',
                           on_message_callback=callback,
                           auto_ack=True)
 
-    print(' [*] Microservice A is waiting for requests. To exit press CTRL+C')
+    print(' \n[*] Microservice A is waiting for requests. To exit press CTRL+C')
     channel.start_consuming()
 
 

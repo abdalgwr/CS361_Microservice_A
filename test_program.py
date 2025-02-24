@@ -19,13 +19,13 @@ channel.basic_publish(exchange='',
                       routing_key='budget_requests',
                       body=json.dumps(request_message))
 
-print(" [x] Sent request to RabbitMQ:", request_message)
+print(" \n[x] Sent request to RabbitMQ:", request_message)
 
 
 # Define a callback function to process the response
 def callback(ch, method, properties, body):
     response = json.loads(body)
-    print(" [x] Received response from RabbitMQ:", response)
+    print(" \n[x] Received response from RabbitMQ:", response)
     connection.close()
 
 
@@ -33,6 +33,6 @@ channel.basic_consume(queue='budget_responses',
                       on_message_callback=callback,
                       auto_ack=True)
 
-print(' [*] Waiting for responses. To exit press CTRL+C')
+print(' \n[*] Waiting for responses. To exit press CTRL+C')
 channel.start_consuming()
 
